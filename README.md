@@ -65,7 +65,11 @@ This will create:
 ### 2️⃣ Add New Feature
 
 ```bash
+### Method 1: Using chmod (Recommended)
 ./feat.sh
+
+### Method 2: Direct bash execution
+bash feat.sh
 ```
 
 Then enter the Feature name (e.g., Auth, Home, Profile)
