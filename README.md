@@ -1,3 +1,6 @@
+![Bash](https://img.shields.io/badge/Bash-Script-green)
+![Flutter](https://img.shields.io/badge/Flutter-Clean%20Architecture-blue)
+
 # 🚀 Flutter Clean Architecture Generator
 
 A fast and easy tool to create Clean Architecture structure in Flutter projects using Bash Scripts.
