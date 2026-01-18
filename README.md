@@ -28,8 +28,8 @@ This tool provides you with the ability to build a Clean Architecture structure 
 ### Method 1: Direct Download
 
 1. Download the files:
-   - [generate_arch.sh](https://github.com/ahmedasaber/clean-architecture-flutter-structure/releases/tag/v1.0.0generate_arch.sh)
-   - [feat.sh](https://github.com/ahmedasaber/clean-architecture-flutter-structure/releases/tag/v1.0.0/feat.sh)
+   - [generate_arch.sh](https://github.com/user-attachments/files/24695299/generate_arch.sh)
+   - [feat.sh](https://github.com/user-attachments/files/24695298/feat.sh)
 
 2. Place the files in the root directory of your Flutter project
 
